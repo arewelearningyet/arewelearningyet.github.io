@@ -230,7 +230,7 @@ img {
   border-width: 0 1px 1px 1px;
   font-weight: normal;
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 967px) {
   .navbar-custom .nav .navlinks-container.show-children {
     background: rgba(0, 0, 0, 0.2);
   }
@@ -417,7 +417,7 @@ footer .theme-by {
   }
 }
 
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 700px) {
   .post-image, .post-image img {
     height: 100px;
     width: 100px;
@@ -544,7 +544,7 @@ footer .theme-by {
 .header-section.has-img .intro-header.no-img {
   display: none;
 }
-@media only screen and (max-width: 365px) {
+@media only screen and (max-width: 565px) {
   .header-section.has-img .intro-header.no-img {
     display: block;
   }
@@ -560,7 +560,7 @@ footer .theme-by {
     margin-bottom: 0;
   }
 }
-@media only screen and (max-width: 325px) {
+@media only screen and (max-width: 525px) {
   .intro-header.big-img {
     height: 200px;
   }
@@ -580,7 +580,7 @@ footer .theme-by {
 #header-gh-btns {
   margin-bottom: 15px;
 }
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 700px) {
   #header-gh-btns > iframe {
     display: block;
     margin-bottom: 5px;
