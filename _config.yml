@@ -22,7 +22,7 @@ description: data student
 navbar-links:
   about: "aboutme"
   peer works:
-    - breathing: "https://github.com/arewelearningyet/arewelearningyet.github.io/blob/master/breathing/index.html"
+    - breathing: "https://github.com/arewelearningyet/arewelearningyet.github.io/blob/master/breathing/index.html?raw=true"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #  Author's home: "http://deanattali.com"
 
