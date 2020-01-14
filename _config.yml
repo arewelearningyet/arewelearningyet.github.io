@@ -21,8 +21,8 @@ description: data student
 # List of links in the navigation bar
 navbar-links:
   about: "aboutme"
-#  Resources:
-#    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  peer works:
+    - breathing: "https://github.com/arewelearningyet/arewelearningyet.github.io/blob/master/breathing/index.html"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #  Author's home: "http://deanattali.com"
 
