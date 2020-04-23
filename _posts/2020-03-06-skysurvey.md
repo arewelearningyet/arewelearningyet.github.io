@@ -13,9 +13,9 @@ comments: true
 published: true
 date: '2020-03-06'
 image: >-
-  https://skysurvey.herokuapp.com/assets/sdsslogowhite.png
+  https://apod.nasa.gov/apod/image/0310/galaxies_sdss_big.jpg
 ---
 ****
-# [Sky Survey](https://skysurvey.herokuapp.com/assets/sdsslogowhite.png)
+# [Sky Survey](https://skysurvey.herokuapp.com)
 
 
