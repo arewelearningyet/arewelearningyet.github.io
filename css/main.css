@@ -110,7 +110,7 @@ img {
 
 .navbar-custom {
   background-color: {{ site.navbar-col }};
-  border-bottom: 10px ridge #150038;
+  border-bottom: 16px double #150038;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
@@ -120,7 +120,7 @@ img {
 
 .navbar-custom .nav li a {
   text-transform: lowercase;
-  font-size: 16px;
+  font-size: 32px;
   letter-spacing: -2px;
 }
 
@@ -171,7 +171,7 @@ img {
 
 .navbar-custom .avatar-container {
   position: absolute;
-  left: 52.5%;
+  left: 51.5%;
   width: 150px;
   margin-top: -5px;
 }
