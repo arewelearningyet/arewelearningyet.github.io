@@ -22,9 +22,9 @@ p {
   margin: 30px 0;
 }
 h1,h2,h3,h4,h5,h6 {
-#  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans-serif;
-  font-family: 'Lora', 'Times New Roman', serif;
-  font-weight: 800;
+  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Verdana, sans-serif;
+#  font-family: 'Lora', 'Times New Roman', serif;
+  font-weight: 500;
 }
 a {
   color: {{ site.link-col }};
@@ -171,9 +171,9 @@ img {
 
 .navbar-custom .avatar-container {
   position: absolute;
-  left: 50%;
+  left: 55%;
   width: 150px;
-  margin-top: -15px;
+  margin-top: -5px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 200%;
