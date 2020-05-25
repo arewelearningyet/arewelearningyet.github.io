@@ -39,9 +39,9 @@ avatar: "/img/DSmint.png?raw=true"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#FFB300"
-navbar-text-col: "#150038"
-navbar-children-col: "#150038"
+navbar-col: "#3B1835"
+navbar-text-col: "#FFB300"
+navbar-children-col: "#040008"
 # navbar-col: "#222930"
 # navbar-text-col: "#E9E9E9"
 # navbar-children-col: "#4EB1BA"
