@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: cs
+title: CS, LS, DS
 
 # Short description of your site
-description: data student
+description: learning in practice
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -39,18 +39,18 @@ avatar: "/img/DSgold.png?raw=true"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#e6bf00"
-navbar-text-col: "#404040"
+navbar-col: "#FFB300"
+navbar-text-col: "#140133"
 navbar-children-col: "#F5F5F5"
 # navbar-col: "#222930"
 # navbar-text-col: "#E9E9E9"
 # navbar-children-col: "#4EB1BA"
-page-col: "#222930"
-link-col: "#E9E9E9"
-hover-col: "#4EB1BA"
+page-col: "#140133"
+link-col: "#FFB300"
+hover-col: "#3B1835"
 footer-col: "#222930"
-footer-text-col: "#E9E9E9"
-footer-link-col: "#4EB1BA"
+footer-text-col: "#FFADAD"
+footer-link-col: "#3B1835"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
