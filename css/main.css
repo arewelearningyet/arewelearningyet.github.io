@@ -110,7 +110,7 @@ img {
 
 .navbar-custom {
   background-color: {{ site.navbar-col }};
-  border-bottom: 5px ridge #000000;
+  border-bottom: 10px ridge #150038;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
@@ -120,13 +120,13 @@ img {
 
 .navbar-custom .nav li a {
   text-transform: lowercase;
-  font-size: 12px;
-  letter-spacing: -1px;
+  font-size: 16px;
+  letter-spacing: -2px;
 }
 
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
-  font-weight: 800;
+  font-weight: 500;
   color: {{ site.navbar-text-col }};
 }
 
@@ -171,7 +171,7 @@ img {
 
 .navbar-custom .avatar-container {
   position: absolute;
-  left: 55%;
+  left: 52.5%;
   width: 150px;
   margin-top: -5px;
 }
