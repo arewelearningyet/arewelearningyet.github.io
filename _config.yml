@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: CS, LS, DS
+title: CS, LS, DS.
 
 # Short description of your site
 description: learning in practice
@@ -45,10 +45,10 @@ navbar-children-col: "#F5F5F5"
 # navbar-col: "#222930"
 # navbar-text-col: "#E9E9E9"
 # navbar-children-col: "#4EB1BA"
-page-col: "#140133"
+page-col: "#040008"
 link-col: "#FFB300"
 hover-col: "#3B1835"
-footer-col: "#222930"
+footer-col: "#040008"
 footer-text-col: "#FFADAD"
 footer-link-col: "#3B1835"
 
