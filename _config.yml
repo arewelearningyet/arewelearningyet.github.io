@@ -40,8 +40,8 @@ avatar: "/img/DSmint.png?raw=true"
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#FFB300"
-navbar-text-col: "#140133"
-navbar-children-col: "#F5F5F5"
+navbar-text-col: "#FFFFFF"
+navbar-children-col: "#000000"
 # navbar-col: "#222930"
 # navbar-text-col: "#E9E9E9"
 # navbar-children-col: "#4EB1BA"
@@ -50,7 +50,7 @@ link-col: "#FFB300"
 hover-col: "#3B1835"
 footer-col: "#040008"
 footer-text-col: "#FFADAD"
-footer-link-col: "#3B1835"
+footer-link-col: "#FFB300"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -64,7 +64,7 @@ footer-link-col: "#3B1835"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: cs
+  name: CS
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
