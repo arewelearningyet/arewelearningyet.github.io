@@ -110,7 +110,7 @@ img {
 
 .navbar-custom {
   background-color: {{ site.navbar-col }};
-  border-bottom: 16px double #150038;
+  border-bottom: 32px double #150038;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   {% if site.navbar-img %}
   background-image: url({{ site.navbar-img }});
@@ -158,21 +158,21 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 20px 0;
+    padding: 10px 0;
     -webkit-transition: background .7s ease-in-out,padding .7s ease-in-out;
     -moz-transition: background .7s ease-in-out,padding .7s ease-in-out;
     transition: background .7s ease-in-out,padding .7s ease-in-out;
   }
 
   .navbar-custom.top-nav-short {
-    padding: 0;
+    padding: 30px;
   }
 }
 
 
 .navbar-custom .avatar-container {
   position: absolute;
-  left: 44%;
+  left: 32%;
   width: 100px;
   margin-top: -40px;
 }
