@@ -178,7 +178,7 @@ img {
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 200%;
-  border-radius: 100%;
+  border-radius: 150%;
   margin-left: -100%;
   display: inline-block;
   box-shadow: 0 0 4px rgba(0, 0, 0, .7);
@@ -187,7 +187,7 @@ img {
 }
 .navbar-custom .avatar-container  .avatar-img {
   width: 200%;
-  border-radius: 100%;
+  border-radius: 150%;
   display: block;
 }
 
