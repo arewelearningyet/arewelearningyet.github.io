@@ -23,7 +23,7 @@ navbar-links:
   about: "aboutme"
   skysurvey: "https://skysurvey.herokuapp.com"
   peer works:
-    - breathing by tmshkr: "https://arewelearningyet.github.io/breathing/index.html"
+    - breathing by tmshkr: "https://cslsds.github.io/breathing/index.html"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
 #  Author's home: "http://deanattali.com"
 
@@ -74,7 +74,7 @@ social-network-links:
   rss: false
   email: "lambdadatasciencelearning@gmail.com"
 #  facebook: 
-  github: arewelearningyet
+  github: CSLSDS
   twitter: CSLSDS
 #  reddit: yourname
 #  linkedin: daattali
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "arewelearningyet.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "CSLSDS.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
