@@ -173,7 +173,7 @@ img {
 .navbar-custom .avatar-container {
   position: absolute;
   left: 52%;
-  width: 200px;
+  width: 150px;
   margin-top: -5px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
@@ -186,7 +186,7 @@ img {
   -moz-box-shadow: 0 0 4px rgba(0, 0, 0, .7);
 }
 .navbar-custom .avatar-container  .avatar-img {
-  width: 200%;
+  width: 150%;
   border-radius: 150%;
   display: block;
 }
