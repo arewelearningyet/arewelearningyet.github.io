@@ -158,7 +158,7 @@ img {
 
 @media only screen and (min-width: 768px) {
   .navbar-custom {
-    padding: 40px 0;
+    padding: 20px 0;
     -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
     -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
     transition: background .5s ease-in-out,padding .5s ease-in-out;
@@ -172,7 +172,7 @@ img {
 
 .navbar-custom .avatar-container {
   position: absolute;
-  left: 50%;
+  left: 33%;
   width: 100px;
   margin-top: 10px;
 }
@@ -233,7 +233,7 @@ img {
 .navbar-custom .nav .navlinks-container .navlinks-children a {
   display: block;
   padding: 10px;
-  padding-left: 30px;
+  padding-left: 15px;
   background-color: {{ site.navbar-children-col }};
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
