@@ -173,8 +173,8 @@ img {
 .navbar-custom .avatar-container {
   position: absolute;
   left: 52%;
-  width: 150px;
-  margin-top: -5px;
+  width: 100px;
+  margin-top: 2px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 200%;
