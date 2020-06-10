@@ -139,15 +139,15 @@ img {
 
 .navbar-custom .navbar-brand-logo {
   padding-top: 0;
-  -webkit-transition: padding .5s ease-in-out;
-  -moz-transition: padding .5s ease-in-out;
-  transition: padding .5s ease-in-out;
+  -webkit-transition: padding .7s ease-in-out;
+  -moz-transition: padding .7s ease-in-out;
+  transition: padding .7s ease-in-out;
 }
 .navbar-custom .navbar-brand-logo img {
   height: 50px;
-  -webkit-transition: height .5s ease-in-out;
-  -moz-transition: height .5s ease-in-out;
-  transition: height .5s ease-in-out;
+  -webkit-transition: height .7s ease-in-out;
+  -moz-transition: height .7s ease-in-out;
+  transition: height .7s ease-in-out;
 }
 .navbar-custom.top-nav-short .navbar-brand-logo {
   padding-top: 5px;
@@ -159,9 +159,9 @@ img {
 @media only screen and (min-width: 768px) {
   .navbar-custom {
     padding: 20px 0;
-    -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
-    -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
-    transition: background .5s ease-in-out,padding .5s ease-in-out;
+    -webkit-transition: background .7s ease-in-out,padding .7s ease-in-out;
+    -moz-transition: background .7s ease-in-out,padding .7s ease-in-out;
+    transition: background .7s ease-in-out,padding .7s ease-in-out;
   }
 
   .navbar-custom.top-nav-short {
@@ -174,7 +174,7 @@ img {
   position: absolute;
   left: 33%;
   width: 100px;
-  margin-top: 10px;
+  margin-top: -20px;
 }
 .navbar-custom .avatar-container  .avatar-img-border {
   width: 150%;
