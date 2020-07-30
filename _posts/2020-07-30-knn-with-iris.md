@@ -12,11 +12,8 @@ tags:
 comments: true
 published: true
 date: '2020-07-30'
-image: >-
-  https://raw.githubusercontent.com/CSLSDS/KNNbuild/cs/assets/220px-KnnClassification.svg.png?raw=true
+image: https://raw.githubusercontent.com/CSLSDS/KNNbuild/cs/assets/220px-KnnClassification.svg.png?raw=true
 ---
-
-****
 
 words and things
 
