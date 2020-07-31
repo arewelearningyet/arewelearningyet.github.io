@@ -16,9 +16,8 @@ ___
 ![nope](https://en.cursor.style/resources/cursors/thumb/5e712b819e959.png) | 👆                            👇
 :--|:--
 ![yep](https://en.cursor.style/resources/pointers/thumb/5e712b819e963.png)| 👉👈  
-  
-   	  
-  
+<br>
+<br>
 >"The closest pair problem for points in the Euclidean plane[[1](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem#cite_note-sh-1)] was among the first geometric problems that were treated at the origins of the systematic study of the [computational complexity](https://en.wikipedia.org/wiki/Analysis_of_algorithms) of geometric algorithms. "  
 >
 >[https://en.wikipedia.org/wiki/Closest_pair_of_points_problem]
