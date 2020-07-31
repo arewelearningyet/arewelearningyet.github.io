@@ -128,12 +128,11 @@ print(f"accuracy of homebrewed knn: {accuracy_score(y_test, our_prediction)}\n")
 
 print(f"accuracy of sklearn library results: {accuracy_score(y_test, sklearn_prediction)}\n")
 ```
-![HOORAY!](https://raw.githubusercontent.com/CSLSDS/KNNbuild/master/assets/comparison.png)
-Hey! That is not too bad, even if this is a very simple classification problem.
+![HOORAY!](https://raw.githubusercontent.com/CSLSDS/KNNbuild/master/assets/comparison.png)  
+### Hey! That is not too bad, even if this is a very simple classification problem.
 
 While it may not perform as fast and as effectively as scikit-learn's implementation,  
-it is very likely much more intelligible if you want to take a look  
-"under the hood" and follow how this algorithm is really working.
+it is very likely much more intelligible if you want to take a look "under the hood" and follow how this algorithm is really working.
   
   
   
@@ -186,11 +185,11 @@ class KNN:
                 distances.append([distance, ix]) # Ksubset entries
             ranked_neighbors = sorted(distances)
             # subset ranked_neighbors to length/number defined in K
-            Ksubset = ranked_neighbors[:self.K]
+            nearest_neighbors = ranked_neighbors[:self.K]
 
             # assign the index matching target training observation
             #    for the top ranked neighbors (corresponding classes)
-            predict = [self.y_train[ix[1]] for ix in Ksubset]
+            predict = [self.y_train[ix[1]] for ix in nearest_neigbors]
             
             # return prediction with max count/"votes" as the 
             #   nearest neigbhor/most likely class
