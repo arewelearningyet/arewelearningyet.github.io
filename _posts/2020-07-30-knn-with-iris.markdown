@@ -130,15 +130,16 @@ print(f"accuracy of homebrewed knn: {accuracy_score(y_test, our_prediction)}\n")
 print(f"accuracy of sklearn library results: {accuracy_score(y_test, sklearn_prediction)}\n")
 ```
 ![HOORAY!](https://raw.githubusercontent.com/CSLSDS/KNNbuild/master/assets/comparison.png)  
-### Hey! That is not too bad, even if this is a very simple classification problem.
+# Hey! 
+### That is not too bad, even if this is a very simple classification problem.
 
 #### While it may not perform as fast and as effectively as scikit-learn's implementation, it is very likely much more intelligible if you want to take a look "under the hood" and follow how this algorithm is really working.
   
 <br>
   
 ### [See the repository README for some more context for this algorithm.](https://github.com/CSLSDS/KNNbuild)  
-  
-  <br>  
+
+<br>  
   
 ### See below for the full text of our constructed KNN class.   
   
