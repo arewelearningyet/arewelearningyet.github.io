@@ -182,14 +182,15 @@ class KNN:
                 # calculate euclidean distance between train obs and test obs
                 distance = self.edist(train_obs, secondary_obs)
                 # [distance, index] appended to distances for comparison
-                distances.append([distance, ix]) # Ksubset entries
+                distances.append([distance, ix]) # neighbor entries
+            # sort the neighbors by which are nearest, descending
             ranked_neighbors = sorted(distances)
             # subset ranked_neighbors to length/number defined in K
-            nearest_neighbors = ranked_neighbors[:self.K]
+            k_nearest_neighbors = ranked_neighbors[:self.K]
 
             # assign the index matching target training observation
             #    for the top ranked neighbors (corresponding classes)
-            predict = [self.y_train[ix[1]] for ix in nearest_neigbors]
+            predict = [self.y_train[ix[1]] for ix in k_nearest_neigbors]
             
             # return prediction with max count/"votes" as the 
             #   nearest neigbhor/most likely class
