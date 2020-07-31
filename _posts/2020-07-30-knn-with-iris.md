@@ -11,9 +11,9 @@ subtitle: in which we apply our aglorithmic savvy to a homespun KNN class
 ___
 # The Closest Pair of Points Problem 
 
-![nope](https://en.cursor.style/resources/cursors/thumb/5e712b819e959.png) | :point_up:                            :point_down:
+![nope](https://en.cursor.style/resources/cursors/thumb/5e712b819e959.png) | 👆                            👇
 :--|:--
-![yep](https://en.cursor.style/resources/pointers/thumb/5e712b819e963.png)| :point_right::point_left:
+![yep](https://en.cursor.style/resources/pointers/thumb/5e712b819e963.png)| 👉👈
   
   
 >"The closest pair problem for points in the Euclidean plane[[1](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem#cite_note-sh-1)] was among the first geometric problems that were treated at the origins of the systematic study of the [computational complexity](https://en.wikipedia.org/wiki/Analysis_of_algorithms) of geometric algorithms. "  
