@@ -154,7 +154,7 @@ class KNN:
     y_train = None
     def __init__(self, K):
         # K Nearest Neighbors requires a value for K,
-        #   which will be the number of classifications/groups created
+        #   based on # of classes, or # of 'votes' later
         self.K = K
 
     def fit(self, X_train, y_train):
