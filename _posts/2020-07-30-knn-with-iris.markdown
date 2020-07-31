@@ -45,7 +45,7 @@ It will work easily with our entirely-numeric dataset, as the calculations will 
 
 Since we have three classes of irises, we will look at the 3 nearest neigbors, making our choice of "K" 3. These three nearest neighbors will then essentially cast their "vote" for which class it is likely to belong to, and tallying the neighbors' votes will give us our best guess as to which class, or perhaps we could say 'neighborhood', the unknown iris is likely to belong to. 
 
-#### Preparation...  
+### Preparation...  
 We can implement this with a few of the basic preparations that are standard for predictive modeling, mainly arranging our observations in rows, and our features or measurements into columns. 
 
 This "dataframe" will then be divided into two sets, the larger of which we will use to 'train' our model to know what these flower species are like, and the other will be reserved to 'test' that training on unknown irises and see how well it performs! 
