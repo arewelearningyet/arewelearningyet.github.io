@@ -21,7 +21,7 @@ ___
 <br>
 >"The closest pair problem for points in the Euclidean plane[[1](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem#cite_note-sh-1)] was among the first geometric problems that were treated at the origins of the systematic study of the [computational complexity](https://en.wikipedia.org/wiki/Analysis_of_algorithms) of geometric algorithms. "  
 >
->[https://en.wikipedia.org/wiki/Closest_pair_of_points_problem]
+>[https://en.wikipedia.org/wiki/Closest_pair_of_points_problem](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem)
 
 The essence of the algorithm is to determine the closest pair of points in Euclidean space, or the "nearest neighbor" to some observation (an individual iris that we have measured, but have not yet identified). 
 
