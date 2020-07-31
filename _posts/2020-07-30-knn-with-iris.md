@@ -1,3 +1,4 @@
+<link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css" rel="stylesheet"></link> 
 ---
 layout: post
 title: "DIY" K Nearest Neighbors Classification of iris species
@@ -7,7 +8,6 @@ subtitle: in which we apply our aglorithmic savvy to a homespun KNN class
 ## ...in which we apply our aglorithmic savvy to a homespun KNN class to guess what kind of flower we're looking at!
 
  [This exploration is based on the classic Iris flower data set outlined by Ronald Fisher in his 1936 paper ["The use of multiple measurements in taxonomic problems"](http://digital.library.adelaide.edu.au/coll/special//fisher/138.pdf) as an example of [linear discriminant analysis](https://en.wikipedia.org/wiki/Linear_discriminant_analysis).]
-<link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css" rel="stylesheet"></link> 
 
 ___
 # The Closest Pair of Points Problem 
