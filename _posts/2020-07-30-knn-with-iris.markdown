@@ -84,7 +84,7 @@ X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_
 ```
 
 ## Next! 
-### We'll import our DIY KNN algorithm to give our best shot at performing this task ourselves! [My implementation can be found [here](https://github.com/CSLSDS/KNNbuild/blob/master/knn.py). You should be running these py files in the same directory to make importing your homemade class as simple as possible. 
+### We'll import our DIY KNN algorithm to give our best shot at performing this task ourselves! [My implementation can be found [here](https://github.com/CSLSDS/KNNbuild/blob/master/knn.py). You should be running these py files in the same directory to make importing your homemade class as simple as possible.]  
 
 ```python
 from knn import KNN
