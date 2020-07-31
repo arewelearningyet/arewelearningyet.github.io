@@ -69,15 +69,16 @@ x = iris.data
 y = iris.target
 
 # if you like, print the iris dataset information to add context
-print(iris['DESCR'])
-print('\n')
+print(f'{iris['DESCR']}\n')
 
 # you could also explore the pandas library as a way of examining the dataframe
 import pandas as pd
 irisdf = pd.DataFrame(x)
 irisdf['class'] = y
 print(irisdf.shape)
+print()
 print(irisdf.head())
+print()
 
 # arrange x, y matrices into training (80% of data) & testing (20% remaining)
 X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=0)
