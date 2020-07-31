@@ -4,7 +4,6 @@ title: "DIY" K Nearest Neighbors Classification of iris species
 subtitle: in which we apply our aglorithmic savvy to a homespun KNN class
 ---
 
-<link href="https://github.com/CSLSDS/CSLSDS.github.io/raw/master/css/darkdown.css" rel="stylesheet"></link>
 
 # "DIY" K Nearest Neighbors Classification of iris species
 ## ...in which we apply our aglorithmic savvy to a homespun KNN class to guess what kind of flower we're looking at!
@@ -19,7 +18,6 @@ ___
 ![yep](https://en.cursor.style/resources/pointers/thumb/5e712b819e963.png)| 👉👈  
   
    	  
-       	  
   
 >"The closest pair problem for points in the Euclidean plane[[1](https://en.wikipedia.org/wiki/Closest_pair_of_points_problem#cite_note-sh-1)] was among the first geometric problems that were treated at the origins of the systematic study of the [computational complexity](https://en.wikipedia.org/wiki/Analysis_of_algorithms) of geometric algorithms. "  
 >
