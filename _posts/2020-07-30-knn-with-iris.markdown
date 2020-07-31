@@ -56,7 +56,6 @@ Fortunately, it will be pretty simple to work with this dataset seeing as how it
 ## Let's import it and get ready for analysis!
 
 ```python
-from sklearn.model_selection import train_test_split
 from sklearn import datasets
 
 # load a common datascience toy dataset, containing iris species observations
@@ -64,23 +63,28 @@ iris = datasets.load_iris()
 
 # arrange data into attributes/feature matrix and a target/y matrix
 x = iris.data
+
 # this is the 1-dimensional array that contains the classes
 #   that we are trying to predict
 y = iris.target
 
 # if you like, print the iris dataset information to add context
-print(f'{iris['DESCR']}\n')
+print(iris['DESCR'])
+print()
 
 # you could also explore the pandas library as a way of examining the dataframe
-import pandas as pd
-irisdf = pd.DataFrame(x)
-irisdf['class'] = y
-print(irisdf.shape)
+#import pandas as pd
+#irisdf = pd.DataFrame(x)
+#irisdf['class'] = y
+irisdf = datasets.load_iris(as_frame=True)
+irisdf = irisdf.frame
+#print(f'"Shape"/dimensions of the dataframe: {irisdf.shape}')
 print()
-print(irisdf.head())
+print(irisdf)
 print()
 
 # arrange x, y matrices into training (80% of data) & testing (20% remaining)
+from sklearn.model_selection import train_test_split
 X_train, X_test, y_train, y_test = train_test_split(x, y, test_size=0.2, random_state=0)
 ```
 
