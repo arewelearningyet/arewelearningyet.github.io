@@ -4,7 +4,7 @@ title: "DIY" K Nearest Neighbors Classification of iris species
 subtitle: in which we apply our aglorithmic savvy to a homespun KNN class
 ---
 
-<link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css" rel="stylesheet"></link> 
+<link href="http://github.com/yrgoldteeth/darkdowncss/raw/master/darkdown.css" rel="stylesheet">
 
 # "DIY" K Nearest Neighbors Classification of iris species
 ## ...in which we apply our aglorithmic savvy to a homespun KNN class to guess what kind of flower we're looking at!
