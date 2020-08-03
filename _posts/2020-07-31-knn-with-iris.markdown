@@ -198,7 +198,7 @@ class KNN:
 
             # assign the index matching target training observation
             #    for the top ranked neighbors (corresponding classes)
-            predict = [self.y_train[ix[1]] for ix in k_nearest_neigbors]
+            predict = [self.y_train[ix[1]] for ix in k_nearest_neighbors]
             
             # return prediction with max count/"votes" as the 
             #   nearest neigbhor/most likely class
